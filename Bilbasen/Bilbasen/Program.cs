@@ -1,6 +1,5 @@
-﻿using Class_Domain_Models;
-
-namespace BilbasenKonsol
+﻿using DomainModels;
+namespace Bilbasen
 {
     internal class Program
     {
